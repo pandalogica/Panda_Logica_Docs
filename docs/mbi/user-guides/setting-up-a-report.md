@@ -146,7 +146,7 @@ For more complex analysis, add several grouping levels — for example **Ship me
 
 ### Drill down to related data
 
-Right-click a row or cell to open **related reports** (where your administrator has configured them). For example, from **Sales Overview** you can jump straight to **Shipments** for the selected customer.
+Right-click a row or cell to open **related reports** (MBI configures these automatically). For example, from **Sales Overview** you can jump straight to **Shipments** for the selected customer.
 
 ![Right-click menu showing related reports](../screenshots/Screenshot%202026-03-25%20114602.jpg)
 
