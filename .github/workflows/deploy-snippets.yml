@@ -22,6 +22,9 @@ jobs:
         run: |
           pip install markdown bleach
 
+      - name: Validate documentation links
+        run: python scripts/validate_docs_links.py
+
       - name: Fetch existing manifest for merge
         run: |
           git fetch origin gh-pages --depth=1 2>/dev/null || true
