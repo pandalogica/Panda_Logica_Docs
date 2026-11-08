@@ -1,75 +1,5 @@
 [
   {
-    "title": "Getting Started",
-    "slug": "getting-started",
-    "children": [
-      {
-        "title": "1) Launch & Activate",
-        "slug": "getting-started/first-login-1-launch-and-activate.snippet.md",
-        "sha256": "687612f2c96369144f2c74bd5927b204cb978a09c86a0571352d02eaa5a859a9",
-        "order": 0,
-        "heading_level": 2,
-        "last_modified": "2026-02-10T06:52:33.124742+00:00"
-      },
-      {
-        "title": "2) Pick your data source",
-        "slug": "getting-started/first-login-2-pick-your-data-source.snippet.md",
-        "sha256": "63c56b422a10fc9cb0da99a62ba34a316d7ae856c1d54cefe221b399cd4efeb8",
-        "order": 0,
-        "heading_level": 2,
-        "last_modified": "2026-02-10T06:52:33.124742+00:00"
-      },
-      {
-        "title": "3) Home screen tour",
-        "slug": "getting-started/first-login-3-home-screen-tour.snippet.md",
-        "sha256": "3964daa412305d3fbb1af7b46340b39eebfed4d9286633a124ac60e45d23a596",
-        "order": 0,
-        "heading_level": 2,
-        "last_modified": "2026-02-10T06:52:33.124742+00:00"
-      },
-      {
-        "title": "4) Run your first query",
-        "slug": "getting-started/first-login-4-run-your-first-query.snippet.md",
-        "sha256": "ac6ae1ca984362e2ab0bb22cde7ecc97a510f2ca47daae2049791c31286fc012",
-        "order": 0,
-        "heading_level": 2,
-        "last_modified": "2026-02-10T06:52:33.124742+00:00"
-      },
-      {
-        "title": "5) Save your layout",
-        "slug": "getting-started/first-login-5-save-your-layout.snippet.md",
-        "sha256": "82bd2fa4763be0d5bc2eed8649a358601df8d241525963d888fd045e747a9ff5",
-        "order": 0,
-        "heading_level": 2,
-        "last_modified": "2026-02-10T06:52:33.124742+00:00"
-      },
-      {
-        "title": "6) Next steps",
-        "slug": "getting-started/first-login-6-next-steps.snippet.md",
-        "sha256": "f131a6409406e8ceaf8b5768674296830dfe64f2dd9859692fd85b5e226a52da",
-        "order": 0,
-        "heading_level": 2,
-        "last_modified": "2026-02-10T06:52:33.124742+00:00"
-      },
-      {
-        "title": "FAQ",
-        "slug": "getting-started/first-login-faq.snippet.md",
-        "sha256": "14ef0a32936901bd47f758e14a9eebafb35cda171cf730314a29fa12cacf48fa",
-        "order": 0,
-        "heading_level": 2,
-        "last_modified": "2026-02-10T06:52:33.124742+00:00"
-      },
-      {
-        "title": "Prerequisites",
-        "slug": "getting-started/first-login-prerequisites.snippet.md",
-        "sha256": "24cff89ae9eff0ddb5881994b3ea5aa7e345f452b7092a6606b76c373df39037",
-        "order": 0,
-        "heading_level": 2,
-        "last_modified": "2026-02-10T06:52:33.124742+00:00"
-      }
-    ]
-  },
-  {
     "title": "Inapphelp",
     "slug": "InAppHelp",
     "children": [
@@ -78,12 +8,36 @@
         "slug": "InAppHelp/MainApp",
         "children": [
           {
-            "title": "Check for Updates",
-            "slug": "InAppHelp/MainApp/bbi_CheckForUpdates.md",
-            "sha256": "918cf1afeed2fd540b783fc03e246d639147ec9308f86ec3c653e3572e2572fc",
+            "title": "Dashboard Accordion",
+            "slug": "InAppHelp/MainApp/DashboardAccordion.md",
+            "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
             "order": 0,
-            "heading_level": 1,
-            "last_modified": "2026-11-08T09:33:23.802369+00:00"
+            "heading_level": 2,
+            "last_modified": "2026-02-10T06:52:32.570742+00:00"
+          },
+          {
+            "title": "Main Menu Accordion",
+            "slug": "InAppHelp/MainApp/MainMenuAccordion.md",
+            "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+            "order": 0,
+            "heading_level": 2,
+            "last_modified": "2026-02-10T06:52:32.570742+00:00"
+          },
+          {
+            "title": "Ribbon Main Menu",
+            "slug": "InAppHelp/MainApp/Ribbon_MainMenu.md",
+            "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+            "order": 0,
+            "heading_level": 2,
+            "last_modified": "2026-02-10T06:52:32.570742+00:00"
+          },
+          {
+            "title": "Tab Control Reports",
+            "slug": "InAppHelp/MainApp/TabControl_Reports.md",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "order": 0,
+            "heading_level": 2,
+            "last_modified": "2026-02-10T06:52:32.570742+00:00"
           },
           {
             "title": "Dashboard Designer",
@@ -102,14 +56,6 @@
             "last_modified": "2026-02-10T06:52:32.580742+00:00"
           },
           {
-            "title": "Dashboard Accordion",
-            "slug": "InAppHelp/MainApp/DashboardAccordion.md",
-            "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-            "order": 0,
-            "heading_level": 2,
-            "last_modified": "2026-02-10T06:52:32.570742+00:00"
-          },
-          {
             "title": "Grid",
             "slug": "InAppHelp/MainApp/grid.md",
             "sha256": "1bb20f3cb398ef21c2a2342cdae01a9b0d8c86de3126be19a736727b30fadf29",
@@ -124,14 +70,6 @@
             "order": 0,
             "heading_level": 1,
             "last_modified": "2026-02-10T06:52:33.039742+00:00"
-          },
-          {
-            "title": "Main Menu Accordion",
-            "slug": "InAppHelp/MainApp/MainMenuAccordion.md",
-            "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-            "order": 0,
-            "heading_level": 2,
-            "last_modified": "2026-02-10T06:52:32.570742+00:00"
           },
           {
             "title": "Pivot Table",
@@ -158,22 +96,6 @@
             "last_modified": "2026-02-10T06:52:33.044742+00:00"
           },
           {
-            "title": "Ribbon Main Menu",
-            "slug": "InAppHelp/MainApp/Ribbon_MainMenu.md",
-            "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-            "order": 0,
-            "heading_level": 2,
-            "last_modified": "2026-02-10T06:52:32.570742+00:00"
-          },
-          {
-            "title": "Tab Control Reports",
-            "slug": "InAppHelp/MainApp/TabControl_Reports.md",
-            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-            "order": 0,
-            "heading_level": 2,
-            "last_modified": "2026-02-10T06:52:32.570742+00:00"
-          },
-          {
             "title": "Dashboard Designer",
             "slug": "InAppHelp/MainApp/dashboard-designer",
             "children": [
@@ -189,6 +111,14 @@
                 "title": "Provide Data",
                 "slug": "InAppHelp/MainApp/dashboard-designer/provide-data",
                 "children": [
+                  {
+                    "title": "Binding to XPO Data Sources",
+                    "slug": "InAppHelp/MainApp/dashboard-designer/provide-data/binding-to-XPO-data-sources.md",
+                    "sha256": "08e2fc85a0279fdfaf503b2d9718f4ed5a0b828170eff26b7a077d294caf8b56",
+                    "order": 0,
+                    "heading_level": 1,
+                    "last_modified": "2026-02-10T06:52:32.579742+00:00"
+                  },
                   {
                     "title": "Binding to CSV Files",
                     "slug": "InAppHelp/MainApp/dashboard-designer/provide-data/binding-to-csv-files.md",
@@ -241,14 +171,6 @@
                     "title": "Binding to Object Data Sources",
                     "slug": "InAppHelp/MainApp/dashboard-designer/provide-data/binding-to-object-data-sources.md",
                     "sha256": "d844509af9c1c0095042c98509415dc3b227759c24410d516d2a1b2828d2c674",
-                    "order": 0,
-                    "heading_level": 1,
-                    "last_modified": "2026-02-10T06:52:32.579742+00:00"
-                  },
-                  {
-                    "title": "Binding to XPO Data Sources",
-                    "slug": "InAppHelp/MainApp/dashboard-designer/provide-data/binding-to-XPO-data-sources.md",
-                    "sha256": "08e2fc85a0279fdfaf503b2d9718f4ed5a0b828170eff26b7a077d294caf8b56",
                     "order": 0,
                     "heading_level": 1,
                     "last_modified": "2026-02-10T06:52:32.579742+00:00"
@@ -4198,6 +4120,14 @@
                 "last_modified": "2026-02-10T06:52:33.044742+00:00"
               }
             ]
+          },
+          {
+            "title": "Check for Updates",
+            "slug": "InAppHelp/MainApp/bbi_CheckForUpdates.md",
+            "sha256": "918cf1afeed2fd540b783fc03e246d639147ec9308f86ec3c653e3572e2572fc",
+            "order": 0,
+            "heading_level": 1,
+            "last_modified": "2026-11-08T09:33:23.802369+00:00"
           }
         ]
       },
@@ -4209,14 +4139,6 @@
             "title": "Tc Systemadmin",
             "slug": "InAppHelp/SystemAdmin/TC_SystemAdmin",
             "children": [
-              {
-                "title": "Application Updates",
-                "slug": "InAppHelp/SystemAdmin/TC_SystemAdmin/TP_Updates.md",
-                "sha256": "881380f2917bf1c0bb44361f111d367fffa163d6d3c1a85130403173c6fa151e",
-                "order": 0,
-                "heading_level": 1,
-                "last_modified": "2026-11-08T09:33:23.802369+00:00"
-              },
               {
                 "title": "Tp Tablesandfields",
                 "slug": "InAppHelp/SystemAdmin/TC_SystemAdmin/TP_TablesAndFields",
@@ -4236,6 +4158,14 @@
                     ]
                   }
                 ]
+              },
+              {
+                "title": "Application Updates",
+                "slug": "InAppHelp/SystemAdmin/TC_SystemAdmin/TP_Updates.md",
+                "sha256": "881380f2917bf1c0bb44361f111d367fffa163d6d3c1a85130403173c6fa151e",
+                "order": 0,
+                "heading_level": 1,
+                "last_modified": "2026-11-08T09:33:23.802369+00:00"
               }
             ]
           }
@@ -4250,5 +4180,75 @@
     "order": 0,
     "heading_level": 1,
     "last_modified": "2026-02-10T06:52:33.124742+00:00"
+  },
+  {
+    "title": "Getting Started",
+    "slug": "getting-started",
+    "children": [
+      {
+        "title": "1) Launch & Activate",
+        "slug": "getting-started/first-login-1-launch-and-activate.snippet.md",
+        "sha256": "687612f2c96369144f2c74bd5927b204cb978a09c86a0571352d02eaa5a859a9",
+        "order": 0,
+        "heading_level": 2,
+        "last_modified": "2026-02-10T06:52:33.124742+00:00"
+      },
+      {
+        "title": "2) Pick your data source",
+        "slug": "getting-started/first-login-2-pick-your-data-source.snippet.md",
+        "sha256": "63c56b422a10fc9cb0da99a62ba34a316d7ae856c1d54cefe221b399cd4efeb8",
+        "order": 0,
+        "heading_level": 2,
+        "last_modified": "2026-02-10T06:52:33.124742+00:00"
+      },
+      {
+        "title": "3) Home screen tour",
+        "slug": "getting-started/first-login-3-home-screen-tour.snippet.md",
+        "sha256": "3964daa412305d3fbb1af7b46340b39eebfed4d9286633a124ac60e45d23a596",
+        "order": 0,
+        "heading_level": 2,
+        "last_modified": "2026-02-10T06:52:33.124742+00:00"
+      },
+      {
+        "title": "4) Run your first query",
+        "slug": "getting-started/first-login-4-run-your-first-query.snippet.md",
+        "sha256": "ac6ae1ca984362e2ab0bb22cde7ecc97a510f2ca47daae2049791c31286fc012",
+        "order": 0,
+        "heading_level": 2,
+        "last_modified": "2026-02-10T06:52:33.124742+00:00"
+      },
+      {
+        "title": "5) Save your layout",
+        "slug": "getting-started/first-login-5-save-your-layout.snippet.md",
+        "sha256": "82bd2fa4763be0d5bc2eed8649a358601df8d241525963d888fd045e747a9ff5",
+        "order": 0,
+        "heading_level": 2,
+        "last_modified": "2026-02-10T06:52:33.124742+00:00"
+      },
+      {
+        "title": "6) Next steps",
+        "slug": "getting-started/first-login-6-next-steps.snippet.md",
+        "sha256": "f131a6409406e8ceaf8b5768674296830dfe64f2dd9859692fd85b5e226a52da",
+        "order": 0,
+        "heading_level": 2,
+        "last_modified": "2026-02-10T06:52:33.124742+00:00"
+      },
+      {
+        "title": "FAQ",
+        "slug": "getting-started/first-login-faq.snippet.md",
+        "sha256": "14ef0a32936901bd47f758e14a9eebafb35cda171cf730314a29fa12cacf48fa",
+        "order": 0,
+        "heading_level": 2,
+        "last_modified": "2026-02-10T06:52:33.124742+00:00"
+      },
+      {
+        "title": "Prerequisites",
+        "slug": "getting-started/first-login-prerequisites.snippet.md",
+        "sha256": "24cff89ae9eff0ddb5881994b3ea5aa7e345f452b7092a6606b76c373df39037",
+        "order": 0,
+        "heading_level": 2,
+        "last_modified": "2026-02-10T06:52:33.124742+00:00"
+      }
+    ]
   }
 ]
