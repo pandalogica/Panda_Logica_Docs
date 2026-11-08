@@ -4120,6 +4120,14 @@
                 "last_modified": "2026-02-10T06:52:33.044742+00:00"
               }
             ]
+          },
+          {
+            "title": "Check for Updates",
+            "slug": "InAppHelp/MainApp/bbi_CheckForUpdates.md",
+            "sha256": "918cf1afeed2fd540b783fc03e246d639147ec9308f86ec3c653e3572e2572fc",
+            "order": 0,
+            "heading_level": 1,
+            "last_modified": "2026-11-08T09:33:23.802369+00:00"
           }
         ]
       },
@@ -4150,6 +4158,14 @@
                     ]
                   }
                 ]
+              },
+              {
+                "title": "Application Updates",
+                "slug": "InAppHelp/SystemAdmin/TC_SystemAdmin/TP_Updates.md",
+                "sha256": "881380f2917bf1c0bb44361f111d367fffa163d6d3c1a85130403173c6fa151e",
+                "order": 0,
+                "heading_level": 1,
+                "last_modified": "2026-11-08T09:33:23.802369+00:00"
               }
             ]
           }
